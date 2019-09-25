@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://shaz:wNmWO0UqDSzeejdX@merncluster-cc98g.mongodb.net/test?retryWrites=true&w=majority", 
+    "MySecretCode":"M9io79044"
+}
